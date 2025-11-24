@@ -5,8 +5,8 @@
 
 ## 🧭 About Me
 - **Role:** Communications Strategy
-- **Team / Department:** Solo / Misc
-- **Location / Time Zone:** Most likely somewherre around you
+- **Team / Department:** Solo
+- **Location / Time Zone:** Most likely somewhere around you
 - **Contact:** siddharth@techvantagesystems.com
 
 ---
@@ -31,7 +31,7 @@ _Comms_
 ## 📦 Key Repositories
 | Repository | Description | Notes |
 |-------------|--------------|-------|
-| [dev-setup](https://github.com/siddbk/dev-setup) | Track dev workflow and streamline new setup | [I/Me/Myself] |
+| [dev-setup](https://github.com/siddbk/dev-setup) | Track dev workflow and streamline new setup | Personal Use |
 | Unfortunately you | don't have clearance | for the rest |
 
 ---
